@@ -9,5 +9,5 @@ Langkah Install
 5.	Login dengan username : <strong>admin</strong>, password : <strong>admin</strong>.
 
 *Jika terdapat Error
-- #1273 - Unknown collation: 'utf8mb4_0900_ai_ci' <br>
-kunjungi : https://stackoverflow.com/questions/29916610/1273-unknown-collation-utf8mb4-unicode-ci-cpanel
+- #1273 - Unknown collation: 'utf8_unicode_ci' <br>
+kunjungi : https://stackoverflow.com/questions/29916610/1273-unknown-collation-utf8-unicode-ci-cpanel
